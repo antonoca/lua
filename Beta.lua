@@ -50,7 +50,7 @@ local ProtectGui = protectgui or (syn and syn.protect_gui) or function() end
 
 local Themes = {
 	Names = {
-		"Original",
+		"Dark",
 		"Darker", 
 		"AMOLED",
 		"Light",
@@ -69,8 +69,8 @@ local Themes = {
 		"Grape",
 		"Bloody"
 	},
-	Original = {
-		Name = "Original",
+	Dark = {
+		Name = "Dark",
 		Accent = Color3.fromRGB(144, 0, 0),
 		AcrylicMain = Color3.fromRGB(0, 0, 0),
 		AcrylicBorder = Color3.fromRGB(86, 0, 0),
